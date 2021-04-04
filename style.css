@@ -1,0 +1,22 @@
+.heading {
+  color: rgb(179, 15, 15);
+  font-weight: bold;
+}
+.big_div {
+  background-color: rgba(128, 128, 128, 0.185);
+  width: 80%;
+  padding: 25px;
+  border: white 5px soild;
+  border-radius: 25px;
+}
+.numbering {
+  font-size: 25px;
+  font-weight: bolder;
+}
+.end-line {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  line-height: 1;
+  text-align: center;
+}
